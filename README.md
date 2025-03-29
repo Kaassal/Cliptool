@@ -17,4 +17,4 @@ For debian based distros (apt)
 ```bash
 sudo make install
 ```
-If you are using a differnt packet manager install xclip with that packet manager then run the makefile 
+If you are using a diffent packet manager install xclip with that packet manager then run the makefile 
